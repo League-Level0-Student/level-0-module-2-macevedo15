@@ -32,7 +32,7 @@ public class Validation {
 		 JOptionPane.showInputDialog(null, "You have a nice smile");
 	 }
 	 else if(randomNumber==4) {
-		 JOptionPane.showInputDialog(null, " You are the best person to walk this earth")
+		 JOptionPane.showInputDialog(null, " You are the best person to walk this earth");
 		// 4. Repeat all the code above 10 times
 		
 		// 5. Find someone to test out your program. They will like it :)
